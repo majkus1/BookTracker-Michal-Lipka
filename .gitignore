@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Production builds
+dist/
+build/
+
+# # Environment variables
+# .env
+
+# # Database
+# *.db
+
+# # Prisma
+# prisma/migrations/
